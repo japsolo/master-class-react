@@ -1,0 +1,20 @@
+ul, ol {
+	list-style: none;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav {
+	background-color: rgb(215, 247, 211);
+}
+
+nav ul {
+	max-width: 900px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
